@@ -1,1 +1,1 @@
-Hello, my name is Adil Alimzhanov. I am currently a third year student in Mount Allison university in New Brunswick Canada. I am doing a BSc with a major in Computer Science and a minor in Mathematics. If you want to reach me, email me at "aalimzhanov@mta.ca".
+Hello, my name is Adil Alimzhanov. I am currently a fourth year student at Mount Allison university in New Brunswick Canada. I am doing a BSc with a major in Computer Science and a minor in Mathematics. If you want to reach me, email me at "aalimzhanov@mta.ca".
